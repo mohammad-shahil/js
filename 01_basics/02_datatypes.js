@@ -17,3 +17,4 @@ let isLoggedIn=false
 console.log(typeof age); //prints the type of datatype
 console.log(typeof null);//output will be object ,null is a object
 console.log(typeof undefined);//output will be undefined itself
+console.log(typeof undefined);//output will be undefined itself
